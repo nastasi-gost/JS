@@ -20,7 +20,7 @@ function findMax(num1, num2, num3) {
     let result = Math.max (num1, num2, num3);
     console.log(`Максимальное число = ${result}`);
 }
-findMax(number1, number2, number3);
+findMax(num1, num2, num3);
 
 let number1 = parseInt(prompt('Введите первое число:'));
 let number2 = parseInt(prompt('Введите второе число:'));
